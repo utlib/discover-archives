@@ -3,4 +3,4 @@
 
 Documentation for using and searching in Discover Archives can be found in [this guide](https://guides.library.utoronto.ca/discover_archives_searchtips). 
 
-Public documentation for Discover Archives will be moved to UTL's Github by February 1, 2024.
+[Service documentation and policies for Discover Archives](https://connect.library.utoronto.ca/display/DA/Discover+Archives+Policies+and+Procedures) are also available publicly.
