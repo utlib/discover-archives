@@ -1,1 +1,0 @@
-# Policy on New Repositories
