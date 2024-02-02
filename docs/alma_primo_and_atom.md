@@ -4,21 +4,28 @@ This page documents how the Discover Archives service (crrently AtoM) integrates
 ## Table of contents
 
 - [Background](#background)
-- [Recommendation for MARC records](#recommendation-for-marc-records)
+- [Recommendations for MARC records](#recommendations-for-marc-records)
 - [Relevant documentation](#relevant-documentation)
 
 
 ## Background
 
-The Discover Archives service began as a pilot in 2014 and launched in 2018. Prior to this, U of T archives had different practices for promoting archival description to different discovery points. Some archives published MARC records in the U of T library catalog. As of 2020, the Discover Archives Steering Committee has been consulting with the LSP Discovery working group to investigate a Discover Archives API feed into Primo.
+The Discover Archives service began as a pilot in 2014. It launched as a service in 2018. 
 
-This page will be updated with additional details as the investigation continues. 
+Prior to 2014, U of T archives had different practices for promoting archival description to different discovery points. You can read more about the metadata and discovery goals that were part of developing the Discover Archives service at U of T in [this paper](https://kula.uvic.ca/index.php/kula/article/view/234). 
 
-## Recommendation for MARC Records
+Prior to the existence of Discover Archives, some U of T archives published MARC records in the U of T library catalog. 
 
-Some Discover Archives finding aids have [corresponding MARC records in the U of T library catalog](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,discoverarchives.library.utoronto.ca&tab=Everything&search_scope=UTL_AND_CI&vid=01UTORONTO_INST:UTORONTO&offset=0).
+Currently, the Discover Archives Steering Committee is consulting with the LSP team and LSP Discovery working group to investigate how the Discover Archives API feed can feed top-level finding aids into Primo to assist in promoting the discovery of local U of T archival records in the U of T library catalog.
 
-If your DASC repository currently creates MARC records for archival material described in Discover Archives pleasure follow these MARC record recommendations: 
+**This page will be updated with additional details as the investigation continues.**
+
+
+## Recommendations for MARC Records
+
+Some Discover Archives repositories have archival fonds/collections with [corresponding MARC records in the U of T library catalog](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,discoverarchives.library.utoronto.ca&tab=Everything&search_scope=UTL_AND_CI&vid=01UTORONTO_INST:UTORONTO&offset=0).
+
+**If your DASC repository currently creates MARC records for archival material described in Discover Archives pleasure follow these MARC record recommendations:** 
 
 ### 1) In the MARC Leader/06 field use resource type "p"
 
@@ -47,7 +54,9 @@ Please consistently encode the [856 field](https://www.loc.gov/marc/bibliographi
 A reminder that these 856 URLs are searchable via the Onesearch search bar. For example, [click here](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,discoverarchives.library.utoronto.ca&tab=Everything&search_scope=UTL_AND_CI&vid=01UTORONTO_INST:UTORONTO&offset=0) to search for any MARC record that contains the text "discoverarchives.library.utoronto.ca" in Onesearch.
 
 
-## Relevant Documentation about Alma, Primo, AtoM, and other standards (DC, EAD, MARC)
+## Relevant Documentation
+
+This list is not exhaustive but includes some of the resources we have pulled together when investigating Alma, Primo, AtoM, and relevant standards (DC, EAD, MARC)
 
 From Ex Libris Community
 --------
