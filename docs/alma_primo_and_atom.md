@@ -1,4 +1,4 @@
-This page documents how the Discover Archives service (crrently AtoM) integrates with the University of Toronto Onesearch catalog (currently Alma/Primo)
+This page documents how the Discover Archives service (currently AtoM) integrates with the University of Toronto Onesearch catalog (currently Alma/Primo)
 
 
 ## Table of contents
