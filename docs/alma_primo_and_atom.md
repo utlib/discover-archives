@@ -62,7 +62,7 @@ From Ex Libris Community
 --------
 * [Configuring Import Profiles for Primo VE](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/045Loading_Records_from_External_Sources_into_Primo_VE/Configuring_Import_Profiles_for_Primo_VE)
 * [External Data Sources](https://proquestmeetings.webex.com/proquestmeetings/lsr.php?RCID=0a3cb3e135164e0abdf10f948eb86b2f)
-* Documentation to check that we can map out each DASC members records to their corresponding Library in Alma - _Add Discovery Profile in Primo sandbox_: [https://knowledge.exlibrisgroup.com/Primo/Product\_Documentation/020Primo\_VE/045Loading\_Records\_from\_External\_Sources\_into\_Primo\_VE/Configuring\_Import\_Profiles\_for\_Primo\_VE](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/045Loading_Records_from_External_Sources_into_Primo_VE/Configuring_Import_Profiles_for_Primo_VE)
+* [Add Discovery Profile in Primo sandbox](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/045Loading_Records_from_External_Sources_into_Primo_VE/Configuring_Import_Profiles_for_Primo_VE) - refer to this documentation to check how to map out each Discover Archives repository record to their corresponding Library in Alma/Primo
 
 From AtoM Community
 --------
@@ -80,21 +80,20 @@ AtoM Google Group Threads
 Examples
 --------
 
-*   University of Strathclyde (Glasgow): [http://suprimo.lib.strath.ac.uk/permalink/f/utkvjl/SUARCHIVESESU\_120](http://suprimo.lib.strath.ac.uk/permalink/f/utkvjl/SUARCHIVESESU_120)
-    *   Source record (in DC XML): [http://suprimo.lib.strath.ac.uk/primo-explore/sourceRecord?vid=SUNU01&docId=SUARCHIVESESU\_120](http://suprimo.lib.strath.ac.uk/primo-explore/sourceRecord?vid=SUNU01&docId=SUARCHIVESESU_120)
-    *   Here's a good example of what things look like in Search Results page - [https://suprimo.lib.strath.ac.uk/primo-explore/search?query=sub,exact,%20Urban%20planning,AND&vid=SUNU01&mode=advanced](https://suprimo.lib.strath.ac.uk/primo-explore/search?query=sub,exact,%20Urban%20planning,AND&vid=SUNU01&mode=advanced)
-    *   Indivates 'Available via Archives and Special Collections reading room'
-    *   We would likely use "View Finding Aid" instead of "Online Access" 
-*   University of York, UK: [https://yorsearch.york.ac.uk/permalink/f/1kq3a7l/44YORK\_ATOM\_DSGB193\_49378](https://yorsearch.york.ac.uk/permalink/f/1kq3a7l/44YORK_ATOM_DSGB193_49378)
-    *   They've customized the 'Resource Type' field to be called 'Borthwick Finding Aid'
-*   National Library of Wales: [https://discover.library.wales/permalink/f/1norb00/44NLW\_ATM\_510564](https://discover.library.wales/permalink/f/1norb00/44NLW_ATM_510564)
-*   Queen's U at Kingston: [https://ocul-qu.primo.exlibrisgroup.com/permalink/01OCUL\_QU/r9dor2/alma9952745342605158](https://ocul-qu.primo.exlibrisgroup.com/permalink/01OCUL_QU/r9dor2/alma9952745342605158)
+* [University of Strathclyde (Glasgow)](http://suprimo.lib.strath.ac.uk/permalink/f/utkvjl/SUARCHIVESESU_120)
+    * [Source record (in DC XML)](http://suprimo.lib.strath.ac.uk/primo-explore/sourceRecord?vid=SUNU01&docId=SUARCHIVESESU_120)
+    * [Example of what things look like in Search Results page](https://suprimo.lib.strath.ac.uk/primo-explore/search?query=sub,exact,%20Urban%20planning,AND&vid=SUNU01&mode=advanced)
+    * Indicates 'Available via Archives and Special Collections reading room'
+    * Note that Discover Archives will likely use "View Finding Aid" instead of "Online Access" 
+* University of York, UK: [https://yorsearch.york.ac.uk/permalink/f/1kq3a7l/44YORK\_ATOM\_DSGB193\_49378](https://yorsearch.york.ac.uk/permalink/f/1kq3a7l/44YORK_ATOM_DSGB193_49378)
+    * They've customized the 'Resource Type' field to be called 'Borthwick Finding Aid'
+* [National Library of Wales](https://discover.library.wales/permalink/f/1norb00/44NLW_ATM_510564)
+* [Queen's U at Kingston](https://ocul-qu.primo.exlibrisgroup.com/permalink/01OCUL_QU/r9dor2/alma9952745342605158)
 *   University of York harvests nightly ([https://digital-archiving.blogspot.com/search?q=atom%20harvesting%20part%201%20it%20works](https://digital-archiving.blogspot.com/search?q=atom%20harvesting%20part%201%20it%20works))
 *   University of York only does top-level / but their aim is to direct users to the actual AtoM instance to navigate descriptions hierarchically: _"If we had enabled the harvesting of all levels of records, there was a risk that search results would have been swamped by hundreds of lower level records from those archives that have been fully catalogued. This would have made the search results difficult to understand, particularly given the fact that these results could not have been displayed in a hierarchical way so the relationships between the different levels would be unclear. We would still encourage users to go direct to the [Borthwick Catalogue](https://borthcat.york.ac.uk/) itself to search and browse lower levels of description."_ ([https://digital-archiving.blogspot.com/search?q=atom%20harvesting%20part%201%20it%20works](https://digital-archiving.blogspot.com/search?q=atom%20harvesting%20part%201%20it%20works))
 
 Crosswalk
 --------
 
-*   [https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/](https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/)
-*   These are the only fields from ISAD(G) that will show up in the DC XML
+*   [https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/](https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/) - these are the only fields from ISAD(G) that will show up in the DC XML
 
