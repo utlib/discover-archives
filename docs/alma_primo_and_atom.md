@@ -41,13 +41,13 @@ Sample MARC records for Discover Archives finding aids:
 
 ### 2) In the MARC 856 field, add the description's finding aid URL
 
-![Add 856 URL to the Discover Archives top-level finding aid](img/856.png)
+![Add 856 URL to the Discover Archives top-level finding aid](img/856_use_y.png)
 
 Please consistently encode the [856 field](https://www.loc.gov/marc/bibliographic/bd856.html) when you do this:
 * Use 4 as the First Indicator
 * Use 2 as the Second Indicator (the finding aid in Discover Archives is consider a related resource)
 * Use subfield $u to add the full and valid URL to the finding aid in Discover Archives (double check the URL)
-* Use subfield $y or $z (DASC to check with Metadata Services) to add the text "View Finding Aid"
+* Use subfield $y (856 subfield $y is for "Link Text") to add the text "View Finding Aid"
 
 ^ these recommendations may evolve and change as the U of T catalog evolves and in consultation with the U of T LSP team and Metadata Services. 
 
