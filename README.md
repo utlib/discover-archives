@@ -1,6 +1,6 @@
-# Discover Archives
-[Discover Archives](https://discoverarchives.library.utoronto.ca/) is a shared portal for exploring archival holdings at the University of Toronto and its federated colleges. Discover Archives currently uses the [Access to Memory (AtoM) platform](https://www.accesstomemory.org/en/docs/latest/).
+# *Discover Archives* policies and documentation
 
-Documentation for using and searching in Discover Archives can be found in [this guide](https://guides.library.utoronto.ca/discover_archives_searchtips). 
+This repository contains public policy & procedures documentation. It is published online using [Just the Docs](https://just-the-docs.com/) and GitHub Pages at: https://utl.github.io/discover-archives/
+* Additional documentation for staff is available on xWiki.  
 
-[Service documentation and policies for Discover Archives](https://connect.library.utoronto.ca/display/DA/Discover+Archives+Policies+and+Procedures) are also available publicly.
+* Documentation for users / researchers using and searching in *Discover Archives* can be found in [this guide](https://guides.library.utoronto.ca/discover_archives_searchtips). 
