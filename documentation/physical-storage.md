@@ -12,4 +12,4 @@ has_children: true
 
 > Created by Emily Sommers, last modified on Oct 04, 2023
 
-Documentation on using the physical storage module. To learn more, see the [Policy on Physical Storage module](/discover-archives/policy/policy-on-physical-storage-module).
+Documentation on using the physical storage module. To learn more, see the [Policy on Physical Storage module](/discover-archives/policies/policy-on-physical-storage-module).

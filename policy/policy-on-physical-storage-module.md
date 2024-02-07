@@ -16,22 +16,22 @@ Repositories may choose to use the [physical storage module](https://www.accesst
 
 1\. The Physical Object type taxonomy in _DiscoverArchives_ has been modified to keep it simple for users and only contains three Container terms:
     
-    * Box
+* Box
     
-    * Folder
+* Folder
     
-    * Digital folder  
+* Digital folder  
     
 
 **Note:** staff with admin permissions may also see the term _Artefact._ This is a [locked term](https://www.accesstomemory.org/en/docs/latest/user-manual/add-edit-content/physical-storage/#edit-storage-types) in AtoM and it cannot be edited or deleted; it is not to be used in _DiscoverArchives_.
 
 2\. The **Name** field should <u>only</u> include the container identifier
 
-    * This identifier does not need to be unique across the system but must be unique within your own repository or location.
+* This identifier does not need to be unique across the system but must be unique within your own repository or location.
 
 3\. The **Location** field <u>must</u> begin with the name (or acronym) of the repository to which the container belongs. Additional information may be added after the name of the repository, for example denoting that the material is stored off-site.
 
-    * This field is not visible to users; only logged in staff members will see it. It is intended to help distinguish who each container belongs to.
+* This field is not visible to users; only logged in staff members will see it. It is intended to help distinguish who each container belongs to.
 
 Two examples of the 'Edit' user interface are below:
 

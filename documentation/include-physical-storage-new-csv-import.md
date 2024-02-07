@@ -3,6 +3,7 @@ layout: default
 title: Include physical storage containers in a new CSV import
 nav_order: 3
 parent: Physical Storage module
+grandparent: Documentation
 permalink: /documentation/physical-storage/include-physical-storage-new-csv-import
 ---
 

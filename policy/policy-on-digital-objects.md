@@ -16,7 +16,7 @@ Digital objects (image files, audio files, video files, DIPs, etc.) can be linke
 
 Each repository is responsible for maintaining its links to externally hosted objects.
 
-As of the AtoM 2.4 upgrade, please do not add finding aids as digital objects or digital object links. As of AtoM version 2.4, finding aids can be uploaded (see: [https://www.accesstomemory.org/en/docs/latest/user-manual/reports-printing/print-finding-aid/#print-finding-aids](https://www.accesstomemory.org/en/docs/latest/user-manual/reports-printing/print-finding-aid/#print-finding-aids)). 
+As of the AtoM 2.4 upgrade, please do not add finding aids as digital objects or digital object links. As of AtoM version 2.4, finding aids can be uploaded ([see AtoM documentation](https://www.accesstomemory.org/en/docs/latest/user-manual/reports-printing/print-finding-aid/#print-finding-aids)). 
 
 **Note**: finding aids should not be uploaded as digital objects, _unless_ a fonds has multiple finding aid files per lower level of description (and until finding aids can be attached at lower levels of description, which will require AtoM development from Artefactual Systems).
 
