@@ -46,7 +46,3 @@ In addition, the following customizations have been made:
 ![Display for public / non logged-in users](img/205161898.png) ![Display for logged-in users / staff ](img/205161899.png)
 
 For more information on using the module, see [Physical Storage documentation pages](/discover-archives/documentation/physical-storage).
-
----
-
-[Edit page on GitHub]()

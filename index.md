@@ -2,13 +2,13 @@
 layout: default
 title: About
 nav_order: 1
-description: "Discover Archives policies and documentation"
+description: "DA Policies and Documentation"
 permalink: /
 has_children: false
 ---
 ![Discover Archives Logo](img/logo.jpg)
 
-# *Discover Archives* policies and documentation
+# Policies and Documentation
 
 *[Discover Archives](https://discoverarchives.library.utoronto.ca/)* is a shared portal for exploring archival holdings at the University of Toronto and its federated colleges. *Discover Archives* currently uses the [Access to Memory (AtoM) platform](https://www.accesstomemory.org/en/docs/latest/).
 

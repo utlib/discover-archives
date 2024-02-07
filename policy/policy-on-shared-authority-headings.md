@@ -17,7 +17,3 @@ permalink: /policies/policy-on-shared-authority-headings
 
 * The institution identifier should list all institutions that worked to create the record.
     * Example: [John A. Sawyer](https://discoverarchives.library.utoronto.ca/index.php/sawyer-john)
-
----
-
-[Edit page on GitHub]()

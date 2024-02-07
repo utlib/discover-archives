@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Discover Archives Steering Committee (DASC): Terms of Reference
+title: Discover Archives Steering Committee (DASC) - Terms of Reference
 nav_order: 1
 parent: Policies
 permalink: /policies/dasc-terms-of-reference
@@ -130,7 +130,3 @@ DASC co-chairs are responsible for
 [^1]: Currently, the Discover Archives software is AtoM.
 
 [^2]: Currently, the Discover Archives wider archival community includes Artefactual Systems.
-
----
-
-[Edit page on GitHub]()

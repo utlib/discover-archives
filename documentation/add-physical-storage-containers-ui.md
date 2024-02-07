@@ -39,6 +39,3 @@ These are instructions for adding storage containers to **existing archival desc
 ![](img/202899590.png)
 
 5. When finished, click "Save". The physical storage container(s) associated with the record will be listed in the right-hand context menu. Click on a physical storage container to see all records associated with the container.
-
----
-[Source code on GitHub]()

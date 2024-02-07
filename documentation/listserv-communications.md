@@ -17,7 +17,7 @@ There are two primary listservs:
 
 | **List** | **Purpose** | **Members** | **Moderators** |
 |---|---|---|---|
-| atom-l |  <ul><li>To promote discussion and inquiries for help/advice from others who are working with AtoM</li><li>To announce upgrades or downtimes of the production site</li><li>Forum for announcements from DASC</li></ul>Matters requiring policy decisions should be brought to the Steering Committee. | All UTL staff (including students) who are working with AtoM / *Discover Archives* | <ul><li>Kelli Babcock</li><li>Jessica Barr</li><li>Emily Sommers</li></ul> |
+| atom-l |  * To promote discussion and inquiries for help/advice from others who are working with AtoM * To announce upgrades or downtimes of the production site * Forum for announcements from DASC Matters requiring policy decisions should be brought to the Steering Committee. | All UTL staff (including students) who are working with AtoM / *Discover Archives* | <ul><li>Kelli Babcock</li><li>Jessica Barr</li><li>Emily Sommers</li></ul> |
 | dasc-l | To share notices of upcoming meetings and any particular discussions relevant to the Steering Committee only. | *Discover Archives* Steering Committee members | <ul><li>Kelli Babcock</li><li>Emily Sommers</li></ul> |
 
 **To subscribe:** email a list moderator
@@ -31,7 +31,3 @@ There are two primary listservs:
 **For List Moderators:**
 
 [https://listserv.utoronto.ca/](https://listserv.utoronto.ca/) > List Management > Subscriber Management
-
----
-
-[Edit page on GitHub]()

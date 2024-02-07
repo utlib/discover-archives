@@ -33,7 +33,3 @@ This policy may be revised as the needs of Discover Archives group change over t
   * Change Media Type to 'Image' from 'Audio (default value)'
   * Upload both reference representation and thumbnail representation images.
   * Here's an example: [https://discoverarchives.library.utoronto.ca/index.php/personal-diary-4](https://discoverarchives.library.utoronto.ca/index.php/personal-diary-4) - the thumbnail links to the external URL and it also has a text link with 'Existence and location of copies' label.
-
----
-
-[Edit page on GitHub]()

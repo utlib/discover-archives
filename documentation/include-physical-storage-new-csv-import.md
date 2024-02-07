@@ -31,7 +31,3 @@ To attach multiple physical storage containers to the same record via CSV import
 All three columns must be completed to correctly import physical storage container information.
 
 Download official AtoM CSV templates: https://wiki.accesstomemory.org/Resources/CSV_templates
-
----
-
-[Edit page on GitHub]()

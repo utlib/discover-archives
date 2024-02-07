@@ -23,7 +23,3 @@ Repositories should use the genre access points to increase discovery of archiva
 * Web archives
 
 Additions to the list of terms will be discussed by the Discover Archives Steering Committee prior to being added.
-
----
-
-[Edit page on GitHub]()

@@ -47,7 +47,3 @@ Or from the archival description page, click on the name of the container you wi
     *   After un-linking containers in bulk, they will still remain in the physical storage module
 
         *   Rather than deleting them manually 1 by 1, they can be removed in bulk through the command-line.
-
----
-
-[Edit page on GitHub]()

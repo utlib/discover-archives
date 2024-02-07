@@ -130,11 +130,4 @@ Record the date or dates of the unit in the _Date_ field (used for free-text dat
 
 Select the unit of description from the drop down list provided.
 
-
-[![Tips for Authority Record Clean Up - Slides](/img/tips-authority-record.png)](https://docs.google.com/presentation/d/10050mDucM5xJO_RuPS7SzfXY7rmSmXryIGm1x7Mtd0c/edit?usp=sharing)
-
-[^1]: If your descriptions have "Creator" values duplicated in lower level descriptions you may find these clean up tips helpful:
-
----
-
-[Edit page on GitHub]()
+[^1]: If your descriptions have "Creator" values duplicated in lower level descriptions you may find [these clean up tips](https://docs.google.com/presentation/d/10050mDucM5xJO_RuPS7SzfXY7rmSmXryIGm1x7Mtd0c/edit?usp=sharing) helpful

@@ -90,7 +90,3 @@ If more than one repository manages an authority record, decide by consensus whi
 **Institution identifier (5.4.2) - Optional**
 
 If two or more repositories are responsible for creating, maintaining and modifying and authority records, record the repositories name here.
-
----
-
-[Edit page on GitHub]()

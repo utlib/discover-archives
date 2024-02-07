@@ -29,7 +29,3 @@ permalink: /policies/policy-on-users
    * Each archival institution administrator is responsible for placing their users in the correct user group
    
    * Each user group will be named with InstitutionLabel Function - i.e. UTARMS Editor
-
-  ---
-
-[Edit page on GitHub]()

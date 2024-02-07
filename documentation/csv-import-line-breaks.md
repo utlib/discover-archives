@@ -48,7 +48,3 @@ If you use OpenRefine, it displays leading line breaks more accurately so that y
 For details, refer to its website: [https://openrefine.org/](https://openrefine.org/)
 
 ![](img/156828754.jpg)
-
----
-
-[Edit page on GitHub]()

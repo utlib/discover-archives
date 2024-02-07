@@ -30,7 +30,3 @@ permalink: /policies/policy-on-new-repositories
     * Set up user accounts for their staff (see [policy on users](/discover-archives/policy/policy-on-users));
     
     * Identify an individual to join DASC.
-
----
-
-[Edit page on GitHub]()

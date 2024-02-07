@@ -65,7 +65,3 @@ The AtoM code branch for this feature (https://github.com/artefactual/atom/commi
 > The proposed enhancement was a way to add a roundtrip option to AtoM's import code that would ignore all the other more complicated matching criteria, and only look for a match on AtoM's objectID. So you would export a CSV from AtoM, make some updates (or add translation rows), and then re-import the CSV as an update. The values in the legacyID column of that CSV are AtoM's objectID values, which are unique throughout the system, so AtoM would only look for exact matches there, bypassing all the complicated checks used currently, and not requiring you to know the legacyID and sourcename values you used during any previous imports (in fact, your updates could be performed on records that weren't originally imported). 
 > 
 > For further details see: https://groups.google.com/d/msg/ica-atom-users/OWFFysVAdnk/SLUJ663PAAAJ
-
----
-
-[Edit page on GitHub]()
