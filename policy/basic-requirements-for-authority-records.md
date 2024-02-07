@@ -26,8 +26,10 @@ Choose the type of entity (Person, Corporate Body or Family) that is being descr
 
 Record the standardized form of the name for the entity in the authority record.
 
-Do not record dates of existence in brackets in this field
-{: .label .label-yellow }
+{: .highlight-title }
+> Note
+>
+> Do not record dates of existence in brackets in this field
 
 ### Description area
 
