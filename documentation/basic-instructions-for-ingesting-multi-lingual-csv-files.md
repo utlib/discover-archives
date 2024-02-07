@@ -3,7 +3,7 @@ layout: default
 title: Basic Instructions for Ingesting Multi-lingual CSV Files
 nav_order: 4
 parent: Documentation
-permalink: /documentation/basic-instructions-for-ingesting-multi-lingual-csv-files.md
+permalink: /documentation/basic-instructions-for-ingesting-multi-lingual-csv-files
 ---
 
 # Basic Instructions for Ingesting Multi-lingual CSV Files

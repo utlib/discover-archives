@@ -3,7 +3,7 @@ layout: default
 title: Add physical storage containers (UI)
 nav_order: 1
 parent: Physical Storage module
-grandparent: Documentation
+grand_parent: Documentation
 permalink: /documentation/physical-storage/add-physical-storage-containers-ui
 ---
 # Discover Archives : Add physical storage containers (UI)  

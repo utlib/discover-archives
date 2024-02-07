@@ -3,7 +3,7 @@ layout: default
 title: Remove containers from archival description
 nav_order: 4
 parent: Physical Storage module
-grandparent: Documentation
+grand_parent: Documentation
 permalink: /documentation/physical-storage/remove-containers
 ---
 

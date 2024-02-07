@@ -3,7 +3,7 @@ layout: default
 title: Import Physical Storage Containers (in bulk)
 nav_order: 2
 parent: Physical Storage module
-grandparent: Documentation
+grand_parent: Documentation
 permalink: /documentation/physical-storage/import-physical-storage-containers-in-bulk
 ---
 
