@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CSV Import: How to Clean up Control Characters/Leading Line Breaks from CSV
+title: CSV Import - How to Clean up Control Characters/Leading Line Breaks from CSV
 nav_order: 3
 parent: Documentation
 permalink: /documentation/csv-import-line-breaks
