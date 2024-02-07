@@ -13,9 +13,9 @@ permalink: /documentation/basic-instructions-for-ingesting-multi-lingual-csv-fil
 ## Background
 In May 2019, UTSC Archivist Tanis Franco sponsored development with Artefactual Systems to enable csv ingest for multi-lingual descriptions.
 
-As a result of this development work, archivists are now able to ingest csv files of multi-lingual descriptions. For example, a fonds with both French and English descriptions can be imported together in 1 csv. Details from Artefactual Systems on this feature can be found at https://projects.artefactual.com/issues/8572. 
+As a result of this development work, archivists are now able to ingest csv files of multi-lingual descriptions. For example, a fonds with both French and English descriptions can be imported together in 1 csv. Details from Artefactual Systems on this feature can be found at [https://projects.artefactual.com/issues/8572](https://projects.artefactual.com/issues/8572). 
 
-The AtoM code branch for this feature (https://github.com/artefactual/atom/commits/dev/2.5.3-uoft) was put into production on Discover Archives in March 2020. The code will be integrated into the next AtoM release, AtoM version 2.6. 
+The AtoM code branch for this feature [https://github.com/artefactual/atom/commits/dev/2.5.3-uoft](https://github.com/artefactual/atom/commits/dev/2.5.3-uoft) was put into production on Discover Archives in March 2020. The code will be integrated into the next AtoM release, AtoM version 2.6. 
 
 ## Ingesting Multi-lingual CSV Files
 
@@ -54,8 +54,8 @@ The AtoM code branch for this feature (https://github.com/artefactual/atom/commi
 * Done!
 
 ### UTSC Example
-* [Tamil and English csv example](/attachments/TamilTest_20220118.csv)
-* Resulting description in Discover Archives: https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai
+* [Tamil and English csv example](attachments/TamilTest_20220118.csv)
+* Resulting description in Discover Archives: [https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai](https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai)
 
 
 ## Other background information from Dan Gillean at Artefactual Systems
@@ -64,4 +64,4 @@ The AtoM code branch for this feature (https://github.com/artefactual/atom/commi
 > 
 > The proposed enhancement was a way to add a roundtrip option to AtoM's import code that would ignore all the other more complicated matching criteria, and only look for a match on AtoM's objectID. So you would export a CSV from AtoM, make some updates (or add translation rows), and then re-import the CSV as an update. The values in the legacyID column of that CSV are AtoM's objectID values, which are unique throughout the system, so AtoM would only look for exact matches there, bypassing all the complicated checks used currently, and not requiring you to know the legacyID and sourcename values you used during any previous imports (in fact, your updates could be performed on records that weren't originally imported). 
 > 
-> For further details see: https://groups.google.com/d/msg/ica-atom-users/OWFFysVAdnk/SLUJ663PAAAJ
+> For further details see: [https://groups.google.com/d/msg/ica-atom-users/OWFFysVAdnk/SLUJ663PAAAJ](https://groups.google.com/d/msg/ica-atom-users/OWFFysVAdnk/SLUJ663PAAAJ)

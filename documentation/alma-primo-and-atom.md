@@ -39,7 +39,7 @@ Some Discover Archives repositories have archival fonds/collections with [corres
 
 ### 1) In the MARC Leader/06 field use resource type "p"
 
-![Use resource type "p" in leader(06) field](img/leader-06-p.png)
+![Use resource type "p" in leader(06) field](./img/leader-06-p.png)
 
 Resource type "p" corresponds to the ["Mixed material" resource type](https://www.itsmarc.com/crs/mergedprojects/helptop1/helptop1/directory_and_leader/idh_leader_06_bib.htm), the most relevant type for top-level archival fonds or collections descriptions.
 
@@ -51,7 +51,7 @@ Sample MARC records for Discover Archives finding aids:
 
 ### 2) In the MARC 856 field, add the description's finding aid URL
 
-![Add 856 URL to the Discover Archives top-level finding aid](img/856_use_y.png)
+![Add 856 URL to the Discover Archives top-level finding aid](./img/856_use_y.png)
 
 Please consistently encode the [856 field](https://www.loc.gov/marc/bibliographic/bd856.html) when you do this:
 * Use 4 as the First Indicator
