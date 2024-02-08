@@ -41,7 +41,7 @@ Or from the archival description page, click on the name of the container you wi
 5. File a ticket with ITS - email [discoverarchives@library.utoronto.ca](mailto:discoverarchives@library.utoronto.ca)
     * Attach csv spreadsheet
     
-    * Ask to have your csv file imported through the command line using the **match-and-update** option, along with the **--roundtrip** and **\--skip-unmatched** options  ([see GoogleGroup discussion thread about bulk updating descriptions](https://groups.google.com/g/ica-atom-users/c/daGpYCj9GAE/m/o3Q1qxGrCgAJ))
+    * Ask to have your csv file imported through the command line using the ```match-and-update``` option, along with the ```--roundtrip``` and ```--skip-unmatched``` options  ([see GoogleGroup discussion thread about bulk updating descriptions](https://groups.google.com/g/ica-atom-users/c/daGpYCj9GAE/m/o3Q1qxGrCgAJ))
 
 6.  If the update was successful, follow-up and ask ITS to run the [command-line task of deleting unlinked physical objects](https://www.accesstomemory.org/en/docs/latest/admin-manual/maintenance/cli-tools/#delete-unlinked-physical-object-locations):
 

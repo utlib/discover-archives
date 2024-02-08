@@ -22,8 +22,8 @@ Repositories may choose to use the [physical storage module](https://www.accesst
     
 * Digital folder  
     
-
-**Note:** staff with admin permissions may also see the term _Artefact._ This is a [locked term](https://www.accesstomemory.org/en/docs/latest/user-manual/add-edit-content/physical-storage/#edit-storage-types) in AtoM and it cannot be edited or deleted; it is not to be used in _DiscoverArchives_.
+{: .note }
+> Staff with admin permissions may also see the term _Artefact._ This is a [locked term](https://www.accesstomemory.org/en/docs/latest/user-manual/add-edit-content/physical-storage/#edit-storage-types) in AtoM and it cannot be edited or deleted; it is not to be used in _DiscoverArchives_.
 
 2\. The **Name** field should <u>only</u> include the container identifier
 
