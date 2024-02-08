@@ -15,17 +15,17 @@ There are two ways to remove containers - a) [manually](#a-manually-unlink) or b
 
 ## A. Manually unlink
 
-Starting from the **Browse Physical Storage page** (![](img/200377644.png) Manage > Physical Storage), click on the name of the container you wish to delete, then delete
+Starting from the **Browse Physical Storage page** (![]({{ site.baseurl }}/img/200377644.png) Manage > Physical Storage), click on the name of the container you wish to delete, then delete
 
-![](img/200377646.png)
+![]({{ site.baseurl }}/img/200377646.png)
 
-![](img/200377641.png)
+![]({{ site.baseurl }}/img/200377641.png)
 
 Or from the archival description page, click on the name of the container you wish to delete (must be logged in), then delete
 
-![](img/200377640.png)
+![]({{ site.baseurl }}/img/200377640.png)
 
-![](img/200377641.png)
+![]({{ site.baseurl }}/img/200377641.png)
 
 ---
 

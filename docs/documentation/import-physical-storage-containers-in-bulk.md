@@ -29,7 +29,7 @@ These are instructions for adding storage containers to **existing archival desc
 
 3. Make sure to select Format: CSV
 
-![](attachments/200377631/200377633.png)
+![]({{ site.baseurl }}/img/200377633.png)
 
 ### All your data:
 
@@ -37,7 +37,7 @@ These are instructions for adding storage containers to **existing archival desc
 
 ## 2. Fill out the physicalobjects.csv template
 
-Using the values from your recently downloaded data, fill out the **[physicalobjects csv template](/attachments/example-physical-objects-2_6.csv)**.
+Using the values from your recently downloaded data, fill out the **[physicalobjects csv template]({{ site.baseurl }}/attachments/example-physical-objects-2_6.csv)**.
 
 The CSV template contains 6 columns, summarized below. Columns with ``*`` are new; other columns are to be copied from your existing data.
 
@@ -65,20 +65,20 @@ The CSV template contains 6 columns, summarized below. Columns with ``*`` are ne
 | 34991        | B2015-0004/009     | Box      | UTARMS       | en          | correspondence-221                                   |
 | 54291        | B2015-0004/006(09) | Folder   | UTARMS       | en          | correspondence-re-dr-bondar                          |
 
-HINT: 
-{: .label .label-yellow }
-
-To join multiple slugs together..
-
-*   Paste slugs column into a text editor like Visual Studio Code or Notepad++
-*   Use **Find & Replace**  
-    *   Windows: Replace: ``\r\n``
-    *   Unix: Replace: ``\n``
-    *   With: ``|``
-*   Make sure Regular Expression is selected
+{: .note-title }
+> HINT
+>
+> To join multiple slugs together..
+>
+> * Paste slugs column into a text editor like Visual Studio Code or Notepad++
+> * Use **Find & Replace**  
+>    * Windows: Replace: ``\r\n``
+>    * Unix: Replace: ``\n``
+>    * With: ``|``
+> * Make sure Regular Expression is selected
 
 ## 3. File a ticket with ITS
 
 Email [discoverarchives@library.utoronto.ca](mailto:discoverarchives@library.utoronto.ca) with the csv file and request the physical storage data to be imported through the command-line.
 
-Reference this documentation page: https://www.accesstomemory.org/en/docs/latest/admin-manual/maintenance/cli-import-export/#import-physical-storage-containers-and-locations
+Reference this documentation page: [https://www.accesstomemory.org/en/docs/latest/admin-manual/maintenance/cli-import-export/#import-physical-storage-containers-and-locations](https://www.accesstomemory.org/en/docs/latest/admin-manual/maintenance/cli-import-export/#import-physical-storage-containers-and-locations)

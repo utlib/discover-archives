@@ -26,9 +26,7 @@ Choose the type of entity (Person, Corporate Body or Family) that is being descr
 
 Record the standardized form of the name for the entity in the authority record.
 
-{: .highlight-title }
-> Note
->
+{: .note }
 > Do not record dates of existence in brackets in this field
 
 ### Description area
@@ -51,8 +49,8 @@ Record the nature of the relationship between the creators.
 
 As of AtoM version 2.6, the relationship field appears in the People and Organization Advanced Search. This means Discover Archives repositories should assign consistent relationship types across authority records so that expected results appear when users make use of the relationship field. See the [AtoM Authority records documentation](https://www.accesstomemory.org/en/docs/latest/user-manual/add-edit-content/authority-records/) for more details on entering data into these fields.
 
-[If in doubt please also refer to ISAAR 5.3](https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_EN.pdf).
-{: .label .label-yellow }
+{: .note }
+> [If in doubt please also refer to ISAAR 5.3](https://www.ica.org/sites/default/files/CBPS_Guidelines_ISAAR_Second-edition_EN.pdf).
 
 | **Category of relationship** | **Relationship type**                        | **Used by**                                        | **Use when** |
 |------------------------------|----------------------------------------------|----------------------------------------------------|--------------|
@@ -77,17 +75,19 @@ As of AtoM version 2.6, the relationship field appears in the People and Organiz
 
 If the authorized form of the name is taken from an authority records database, record the unique identifier of the authority record. Otherwise leave the field blank. The recommended authority to use for authority record identifiers is [VIAF](https://viaf.org/).
 
-Please use VIAF url when available.
-{: .label .label-green }
-Example - [Claude Bissell](https://discoverarchives.library.utoronto.ca/index.php/bissell-claude-3)
-Authority record identifier: [http://viaf.org/viaf/44326760](http://viaf.org/viaf/44326760)
+{: .new-title }
+> Please use VIAF url when available.
+>
+> Example - [Claude Bissell](https://discoverarchives.library.utoronto.ca/index.php/bissell-claude-3)
+>
+> Authority record identifier: [http://viaf.org/viaf/44326760](http://viaf.org/viaf/44326760)
 
 **Maintaining repository (5.4.2) - Mandatory**
 
 Select from the dropdown menu the repository that oversees the authority record
 
-If more than one repository manages an authority record, decide by consensus which repository should be responsible for maintaining it. Record in the next field (Institution identifier) the names of the two institutions.
-{: .label .label-yellow }
+{: .note }
+> If more than one repository manages an authority record, decide by consensus which repository should be responsible for maintaining it. Record in the next field (Institution identifier) the names of the two institutions.
 
 **Institution identifier (5.4.2) - Optional**
 

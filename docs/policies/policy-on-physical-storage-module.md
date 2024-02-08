@@ -35,7 +35,7 @@ Repositories may choose to use the [physical storage module](https://www.accesst
 
 Two examples of the 'Edit' user interface are below:
 
-![Example of the 'Edit' physical storage user interface](/img/205161896.png) ![Example of the 'Edit' physical storage user interface](/img/205161897.png)
+![Example of the 'Edit' physical storage user interface]({{ site.baseurl }}/img/205161896.png) ![Example of the 'Edit' physical storage user interface]({{ site.baseurl }}/img/205161897.png)
 
 In addition, the following customizations have been made:
 
@@ -43,6 +43,6 @@ In addition, the following customizations have been made:
 
 2\. The user interface label on archival description pages has been changed from _Physical_ _storage_ to _Retrieval Code_
 
-![Display for public / non logged-in users](/img/205161898.png) ![Display for logged-in users / staff ](/img/205161899.png)
+![Display for public / non logged-in users]({{ site.baseurl }}/img/205161898.png) ![Display for logged-in users / staff ]({{ site.baseurl }}/img/205161899.png)
 
 For more information on using the module, see [Physical Storage documentation pages](/discover-archives/documentation/physical-storage).

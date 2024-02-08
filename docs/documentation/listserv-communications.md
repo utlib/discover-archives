@@ -17,8 +17,8 @@ There are two primary listservs:
 
 | **List** | **Purpose** | **Members** | **Moderators** |
 |---|---|---|---|
-| atom-l | To promote discussion and inquiries for help/advice from others who are working with AtoM<br>To announce upgrades or downtimes of the production site<br>Forum for announcements from DASC<br>Matters requiring policy decisions should be brought to the Steering Committee. | All UTL staff (including students) who are working with AtoM / *Discover Archives* | Kelli Babcock<br>Jessica Barr<br>Emily Sommers |
-| dasc-l | To share notices of upcoming meetings and any particular discussions relevant to the Steering Committee only. | *Discover Archives* Steering Committee members | Kelli Babcock<br>Emily Sommers |
+| atom-l | &bull; To promote discussion and inquiries for help/advice from others who are working with AtoM<br> &bull; To announce upgrades or downtimes of the production site<br> &bull; Forum for announcements from DASC<br>Matters requiring policy decisions should be brought to the Steering Committee. | All UTL staff (including students) who are working with AtoM / *Discover Archives* | &bull; Kelli Babcock<br> &bull; Jessica Barr<br> &bull; Emily Sommers |
+| dasc-l | To share notices of upcoming meetings and any particular discussions relevant to the Steering Committee only. | *Discover Archives* Steering Committee members | &bull; Kelli Babcock<br> &bull; Emily Sommers |
 
 **To subscribe:** email a list moderator
 

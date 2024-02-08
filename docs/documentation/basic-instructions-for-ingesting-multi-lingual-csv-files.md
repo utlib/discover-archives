@@ -25,7 +25,7 @@ The AtoM code branch for this feature [https://github.com/artefactual/atom/commi
 
     * All records MUST HAVE a legacyID and culture column in the csv
 
-        * Current AtoM documentation on the culture column can be found at https://www.accesstomemory.org/en/docs/latest/user-manual/import-export/csv-import/#other-data-entry-notes  
+        * Current AtoM documentation on the culture column can be found at [https://www.accesstomemory.org/en/docs/latest/user-manual/import-export/csv-import/#other-data-entry-notes](https://www.accesstomemory.org/en/docs/latest/user-manual/import-export/csv-import/#other-data-entry-notes)  
 
     * legacyID should be the same for records that are translations of each other - ie. you will have records with the same legacyID. That is okay.
 
@@ -43,9 +43,9 @@ The AtoM code branch for this feature [https://github.com/artefactual/atom/commi
 
         * generalNote
 
-            * Notes are stored in a different table, and the AtoM method for updating resources via import currently only works for those fields in the primary information_object and information_object_i18n tables. 
+            * Notes are stored in a different table, and the AtoM method for updating resources via import currently only works for those fields in the primary ```information_object``` and ```information_object_i18n``` tables. 
 
-    * Do not include any data in taxonomy columns - i.e. LevelOfDescription or Genre (this creates a duplicate Taxonomy terms in English language) - Kelli to report bug to Artefactual Systems
+    * Do not include any data in taxonomy columns - i.e. **LevelOfDescription** or **Genre** (this creates a duplicate Taxonomy terms in English language) - Kelli to report bug to Artefactual Systems
 
         * Update on this: Sunny found that you can add **levelOfDescription** and **genreAccessPoints** only to the English records (the CSV rows that have 'en' culture value). Don't add taxonomy entries to a non-English culture rows. **PublicationStatus** column is not necessary because it doesn't work with multi-lingual CSV import. All are imported as 'Draft' and you can change publication status of all descendants from its parent description by  more > update publication status > update descendants menu. (Added by TF, Jan 18 '22)
 
@@ -54,7 +54,7 @@ The AtoM code branch for this feature [https://github.com/artefactual/atom/commi
 * Done!
 
 ### UTSC Example
-* [Tamil and English csv example](attachments/TamilTest_20220118.csv)
+* [Tamil and English csv example]({{ site.baseurl }}/attachments/TamilTest_20220118.csv)
 * Resulting description in Discover Archives: [https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai](https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai)
 
 

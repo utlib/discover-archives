@@ -10,8 +10,9 @@ permalink: /policies/policy-on-subject-space-place-names-and-function-headings
 
 > Created by Amanda Tome, last modified by Kelli Babcock on Mar 07, 2023
 
-_**Policy under review**_
-{: .label .label-red }
+{: .highlight }
+> _**Policy under review**_
+
 
 Repositories should not use subject, place, or function access points at this point in time. St. Michael's College Archival & Manuscript Collections is the exception to this rule, as their original descriptions already included subject headings. The *Discover Archives* help page/user guide should make it clear that subject headings are only being used by that one repository.
 

@@ -27,6 +27,6 @@ permalink: /policies/policy-on-new-repositories
     
     * Add an institutional record into the production and development instances of Discover Archives;
     
-    * Set up user accounts for their staff (see [policy on users](/discover-archives/policy/policy-on-users));
+    * Set up user accounts for their staff (see [policy on users]({{ site.baseurl }}/policies/policy-on-users));
     
     * Identify an individual to join DASC.

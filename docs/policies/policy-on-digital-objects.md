@@ -9,8 +9,8 @@ permalink: /policies/policy-on-digital-objects
 # Policy on Digital Objects
 > Created by Amanda Tome, last modified by Kelli Babcock on Jul 25, 2023
 
-Do not upload digitized objects (i.e. photographs, audio files, video files, DIPs, etc.) directly into Discover Archives.
-{: .label .label-yellow }
+{: .warning }
+> Do not upload digitized objects (i.e. photographs, audio files, video files, DIPs, etc.) directly into Discover Archives.
 
 Digital objects (image files, audio files, video files, DIPs, etc.) can be linked to from descriptions. To do this, use the "[Link to digital object](https://www.accesstomemory.org/en/docs/latest/user-manual/import-export/upload-digital-object/#link-a-single-digital-object-to-an-archival-description)" option when you want to connect a description to a digital object. This allows administrators to link to externally hosted digital objects. This work flow was approved at the September 2017 DASC meeting.
 

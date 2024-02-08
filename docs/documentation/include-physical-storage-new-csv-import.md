@@ -27,8 +27,8 @@ _physicalObjectType:_ Selected from the physical storage taxonomy. Options are: 
 
 To attach multiple physical storage containers to the same record via CSV import, use a pipe character ("|") to separate each container. All three columns must have the same number of pipe characters, e.g.:
 
-![](img/202899603.png)
+![]({{ site.baseurl }}/img/202899603.png)
 
 All three columns must be completed to correctly import physical storage container information.
 
-Download official AtoM CSV templates: https://wiki.accesstomemory.org/Resources/CSV_templates
+Download official AtoM CSV templates: [https://wiki.accesstomemory.org/Resources/CSV_templates](https://wiki.accesstomemory.org/Resources/CSV_templates)

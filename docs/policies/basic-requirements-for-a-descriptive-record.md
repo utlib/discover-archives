@@ -29,8 +29,8 @@ Material consulted:
 Record the unique identifier for the fonds or collection being described. The country code and repository code are automatically populated by the system. The three components (country code, repository code and unique identifier) form the reference code of the fonds or collection. Example: 
 > CA UTA 1643
 
-**Note:** If the next level of description includes a unique reference code then a unique codes is not required at the fonds/collection level.
-{: .label .label-yellow }
+{: .note }
+> If the next level of description includes a unique reference code then a unique codes is not required at the fonds/collection level.
 
 **Title (3.1.2) / Title Proper (.1B)**
 
@@ -55,8 +55,8 @@ Record the physical extent of the unit along with its specific media designation
 
 Record the name of the creator(s) of the unit being described. The name must first be created as an authority record prior to entering it into the descriptive field.
 
-**NOTE:** Do not add Creator names at lower levels if the Creator is already added at Fonds/Collection level (even for Accession records that have a fonds record). The lower level descriptions will always inherit the top level Creator.[^1]
-{: .label .label-red } 
+{: .warning }
+> Do not add Creator names at lower levels if the Creator is already added at Fonds/Collection level (even for Accession records that have a fonds record). The lower level descriptions will always inherit the top level Creator.[^1]
 
 **Repository**
 
