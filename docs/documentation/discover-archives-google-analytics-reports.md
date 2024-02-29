@@ -10,7 +10,9 @@ permalink: /documentation/physical-storage/discover-archives-google-analytics-re
 
 > Created by Kelli Babcock, last modified on Feb 29, 2024
 
-This page shared the public Google Analytics reports via Looker Studio for the Discover Archives service. The practice of generating reports began in Summer 2023 but past analytics are also available.
+This page shares the public Google Analytics reports via Looker Studio for the Discover Archives service. 
+
+The practice of generating reports began in Summer 2023 but past analytics are also available.
 
 ## 2024
 * [January](https://lookerstudio.google.com/reporting/ac8e2f0d-ba7e-43a8-a98b-a1f616452f81)
