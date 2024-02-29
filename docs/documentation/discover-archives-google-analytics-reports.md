@@ -3,7 +3,7 @@ layout: default
 title: Discover Archives Google Analytics Reports
 nav_order: 9
 parent: Documentation
-permalink: /documentation/physical-storage/discover-archives-google-analytics-reports
+permalink: /documentation/discover-archives-google-analytics-reports
 ---
 
 # Discover Archives Google Analytics Reports  
