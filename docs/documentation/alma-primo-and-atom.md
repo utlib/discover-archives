@@ -31,11 +31,11 @@ Currently, the Discover Archives Steering Committee is consulting with the LSP t
 **This page will be updated with additional details as the investigation continues.**
 
 
-## Recommendations for MARC Records
+## DRAFT Recommendations for MARC Records - Under Review
 
 Some Discover Archives repositories have archival fonds/collections with [corresponding MARC records in the U of T library catalog](https://librarysearch.library.utoronto.ca/discovery/search?query=any,contains,discoverarchives.library.utoronto.ca&tab=Everything&search_scope=UTL_AND_CI&vid=01UTORONTO_INST:UTORONTO&offset=0).
 
-**If your DASC repository currently creates MARC records for archival material described in Discover Archives pleasure follow these MARC record recommendations:** 
+**If your DASC repository currently creates MARC records for archival material described in Discover Archives pleasure follow these DRAFT MARC record recommendations:** 
 
 ### 1) In the MARC Leader/06 field use resource type "p"
 
@@ -105,5 +105,5 @@ Examples
 Crosswalk
 --------
 
-*   [https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/](https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/) - these are the only fields from ISAD(G) that will show up in the DC XML
+* [https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/](https://www.accesstomemory.org/en/docs/latest/user-manual/data-templates/dc-template/) - these are the only fields from ISAD(G) that will show up in the DC XML
 
