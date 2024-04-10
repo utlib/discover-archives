@@ -8,8 +8,6 @@ permalink: /documentation/discover-archives-google-analytics-reports
 
 # Discover Archives Google Analytics Reports  
 
-> Created by Kelli Babcock, last modified on Feb 29, 2024
-
 This page shares the public Google Analytics reports via Looker Studio for the Discover Archives service. 
 
 The practice of generating reports began in Summer 2023 but past analytics are also available.
@@ -17,7 +15,8 @@ The practice of generating reports began in Summer 2023 but past analytics are a
 ## 2024
 * [January](https://lookerstudio.google.com/reporting/ac8e2f0d-ba7e-43a8-a98b-a1f616452f81)
 * [February](https://lookerstudio.google.com/reporting/73a76b8b-1322-405b-b1f0-7597cdfb956a)
-* March (forthcoming)
+* [March](https://lookerstudio.google.com/reporting/bcc92e5e-0dd1-44e9-81e5-62add158ba6d)
+* April (forthcoming)
 
 ## 2023
 * [August](https://lookerstudio.google.com/reporting/62f4623e-4945-490b-8748-ed4089fe359a/page/H3aUD)
