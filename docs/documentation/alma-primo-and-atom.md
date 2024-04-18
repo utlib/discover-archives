@@ -37,13 +37,13 @@ Some Discover Archives repositories have archival fonds/collections with [corres
 
 **If your DASC repository currently creates MARC records for archival material described in Discover Archives pleasure follow these DRAFT MARC record recommendations:** 
 
-### 1) In the MARC Leader/06 field use resource type "p"
+### 1) In the MARC Leader/06 field the recommendation is to use "pca" for positions 6-8
 
-![Use resource type "p" in leader(06) field]({{ site.baseurl }}/img/leader-06-p.png)
+![Use resource type "pca" in leader(06) field]({{ site.baseurl }}/img/leader-06-pca.png)
 
-Resource type "p" corresponds to the ["Mixed material" resource type](https://www.itsmarc.com/crs/mergedprojects/helptop1/helptop1/directory_and_leader/idh_leader_06_bib.htm), the most relevant type for top-level archival fonds or collections descriptions.
+Resource type "pca" corresponds to the ["Mixed material" resource type](https://www.itsmarc.com/crs/mergedprojects/helptop1/helptop1/directory_and_leader/idh_leader_06_bib.htm), the most relevant type for top-level archival fonds or collections descriptions.
 
-In the UTL catalog, resource type "p" will display under the "Format" facet as "Archives @ U of T". 
+Following consultation with the LSP Discovery Group, as of 2024 the UTL catalog will display all records with "pca" for leader postions 6-8 as "Archives @ U of T" under the "Format" facet.
 
 Sample MARC records for Discover Archives finding aids:
 * [Kathleen Parlow fonds](https://librarysearch.library.utoronto.ca/discovery/sourceRecord?vid=01UTORONTO_INST:UTORONTO&docId=alma991107320546406196&recordOwner=01UTORONTO_INST)
