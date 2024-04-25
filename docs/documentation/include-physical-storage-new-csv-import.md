@@ -25,7 +25,7 @@ _physicalObjectLocation:_ The Location of your physical storage container. In ac
 
 _physicalObjectType:_ Selected from the physical storage taxonomy. Options are: Box, Folder, Digital Folder.
 
-To attach multiple physical storage containers to the same record via CSV import, use a pipe character ("|") to separate each container. All three columns must have the same number of pipe characters, e.g.:
+To attach multiple physical storage containers to the same record via CSV import, use a pipe character ("\|") to separate each container. All three columns must have the same number of pipe characters, e.g.:
 
 ![]({{ site.baseurl }}/img/202899603.png)
 
