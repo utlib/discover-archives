@@ -8,7 +8,7 @@ permalink: /policies/dasc-terms-of-reference
 
 # Discover Archives Steering Committee: Terms of Reference
 
-> Created by Amanda Tome, last modified by Kelli Babcock on Nov 16, 2023
+> Created by Amanda Tome
 
 [A. Background](#a-background) | [B. Purpose](#b-purpose) | [C. Composition](#c-composition) | [D. Membership](#d-membership) | [E. Chairs](#e-chairs) | [F. Meetings](#f-meetings) | [G. Decision-making](#g-decision-making) | [H. Communication](#h-communication) | [I. Roles and Responsibilities](#i-roles-and-responsibilities)
 
@@ -61,7 +61,8 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Hana Kim                                                   | East Asian Library                                                                                                              |
 | Rachel Beattie                                                      | Media Commons Archives                                                                                                          |
 | Rebecca Shaw                                                        | Music Library                                                                                                                   |
-| Nat Johnson-Tyghter                      | OISE Library                                                                                                                    |
+| Nat Johnson-Tyghter                      			      | OISE Library                                                                                                                    |
+| Zhuohua (Nicole) Yang                     			      | Richard Charles Lee Canada-Hong Kong Library                                                                                                         |
 | Natalya Rattan                                                      | Thomas Fisher Rare Book Library                                                                                                 |
 | Sylvia Lassam<br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
 | Jessica Barr                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
