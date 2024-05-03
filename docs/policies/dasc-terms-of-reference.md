@@ -26,6 +26,7 @@ permalink: /policies/dasc-terms-of-reference
 3. Participating repositories:
    * Cheng Yu Tung East Asian Library
    * OISE Library
+   * Richard Charles Lee Canada-Hong Kong Library
    * Thomas Fisher Rare Book Library
    * Trinity College Archives  
    * Trinity College, John W. Graham Library
@@ -57,10 +58,10 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Kelli Babcock (co-chair)                                            | ITS                                                                                                                             |
 | Emily Sommers (co-chair)                                            | UTARMS                                                                                                                          |
 | Sunny Lee                                                           | ITS                                                                                                                             |
-| Elizabeth Carroll                                                   | East Asian Library                                                                                                              |
+| Hana Kim                                                   | East Asian Library                                                                                                              |
 | Rachel Beattie                                                      | Media Commons Archives                                                                                                          |
 | Rebecca Shaw                                                        | Music Library                                                                                                                   |
-| Desmond Wong<br>Secondary contact: Jenaya Webb                      | OISE Library                                                                                                                    |
+| Nat Johnson-Tyghter                      | OISE Library                                                                                                                    |
 | Natalya Rattan                                                      | Thomas Fisher Rare Book Library                                                                                                 |
 | Sylvia Lassam<br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
 | Jessica Barr                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
