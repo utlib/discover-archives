@@ -72,6 +72,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Bailey Chui                                                         | Victoria University Library - Special Collections                                                                               |
 | Melissa Ritz                                                        | Wycliffe College Archives                                                                                                       |
 
+Membership list also maintained in the [UTL Staff Directory](https://staff.library.utoronto.ca/node/42472).
 ## E. CHAIRS
 
 * The Discover Archives Steering Committee is co-chaired by the Digital Initiatives Librarian (ITS) and one repository representative. The latter member will serve a term of 2 years.
