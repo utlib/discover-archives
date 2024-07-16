@@ -64,9 +64,9 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Nat Johnson-Tyghter                      			      | OISE Library                                                                                                                    |
 | Zhuohua (Nicole) Yang                     			      | Richard Charles Lee Canada-Hong Kong Library                                                                                                         |
 | Natalya Rattan                                                      | Thomas Fisher Rare Book Library                                                                                                 |
-| Sylvia Lassam<br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
-| Jessica Barr                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
-| TBD<br>Secondary contact: Chris Young | UTM Library, Archives & Special Collections                                                                                     |
+| Sylvia Lassam and Lindsay Grant <br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
+| Jessica Barr and Simon Rogers <br>Secondary contact: Teresa Wong                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
+| Cal Long <br>Secondary contact: Chris Young | UTM Library, Archives & Special Collections                                                                                     |
 | Walter Ward<br>Secondary contact: Lindsay Gibb                      | UTSC Library, Archives & Special Collections                                                                                    |
 | Jessica Todd                                                        | Victoria University Archives                                                                                                    |
 | Bailey Chui                                                         | Victoria University Library - Special Collections                                                                               |
