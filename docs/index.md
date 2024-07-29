@@ -14,6 +14,6 @@ has_children: false
 
 This site contains public policy & procedures documentation.
 
-Additional internal documentation for staff is available [here](https://connect.library.utoronto.ca/DA/) (you must be login with your UTORid). 
+Additional internal documentation for staff is available [here](https://connect.library.utoronto.ca/DA/) (you must login with your UTORid). 
 
 Documentation for users / researchers using and searching in *Discover Archives* can be found in [this guide](https://guides.library.utoronto.ca/discover_archives_searchtips).
