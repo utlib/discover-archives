@@ -8,7 +8,7 @@ permalink: /documentation/discover-archives-accessibility
 
 # Discover Archives Web Accessibility
 
-Discover Archives web accessibility testing and improvements are ongoing. Contact [discoverarchives@library.utoronto.ca](mailto:discoverarchives@library.utoronto.ca)if you need support.
+Discover Archives web accessibility testing and improvements are ongoing. Contact [discoverarchives@library.utoronto.ca](mailto:discoverarchives@library.utoronto.ca) if you need support.
 
 Please note that any AtoM-related web accessibility improvements should be submitted to the public release of AtoM via Artefactual Systems for sustainability and maintenance issues.
 
