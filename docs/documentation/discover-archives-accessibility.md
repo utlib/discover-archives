@@ -12,6 +12,8 @@ Discover Archives web accessibility testing and improvements are ongoing. Contac
 
 Please note that any AtoM-related web accessibility improvements should be submitted to the public release of AtoM via Artefactual Systems for sustainability and maintenance issues.
 
-Staff should refer to internal Discover Archives documentation for a web accessible finding aid template, checklist, and information about the "Generate PDF" feature in AtoM. PDF legacy finding aid remediation is ongoing across Discover Archives repositories. 
+U of T staff should refer to [internal Discover Archives documentation](https://connect.library.utoronto.ca/DA/Discover%20Archives%20Policies%20and%20Procedures/Discover%20Archives%20Accessibility/#) for access to a web accessible finding aid template, checklist, and information about the "Generate PDF" feature in AtoM. 
+
+PDF legacy finding aid remediation is ongoing across Discover Archives repositories. 
  
-Additional documentation around web accessibility, AtoM, and Discover Archives will be added to this page. 
+Additional public documentation around web accessibility as it relates to AtoM and Discover Archives will be added to this page in the future. 
