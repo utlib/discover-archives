@@ -8,7 +8,7 @@ permalink: /policies/dasc-terms-of-reference
 
 # Discover Archives Steering Committee: Terms of Reference
 
-> Created by Amanda Tome, last updated by Emily Sommers on Aug 07, 2024
+> Created by Amanda Tome, last updated by Emily Sommers on November 13, 2024
 
 [A. Background](#a-background) | [B. Purpose](#b-purpose) | [C. Composition](#c-composition) | [D. Membership](#d-membership) | [E. Chairs](#e-chairs) | [F. Meetings](#f-meetings) | [G. Decision-making](#g-decision-making) | [H. Communication](#h-communication) | [I. Roles and Responsibilities](#i-roles-and-responsibilities)
 
@@ -70,7 +70,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | John Yolkowski<br>Secondary contact: Lindsay Gibb                      | UTSC Library, Archives & Special Collections                                                                                    |
 | Jessica Todd                                                        | Victoria University Archives                                                                                                    |
 | Bailey Chui                                                         | Victoria University Library - Special Collections                                                                               |
-| Melissa Ritz                                                        | Wycliffe College Archives                                                                                                       |
+| Allison Graham                                                        | Wycliffe College Archives                                                                                                       |
 
 Membership list also maintained in the [UTL Staff Directory](https://staff.library.utoronto.ca/node/42472).
 ## E. CHAIRS
