@@ -56,7 +56,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | **Member**                                                          | **Repository / Unit**                                                                                                           |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Kelli Babcock (co-chair)                                            | ITS                                                                                                                             |
-| Emily Sommers (co-chair)                                            | UTARMS                                                                                                                          |
+| Emily Sommers (co-chair) <br>2025-2026 contact: Daniela Ansovini                                           | UTARMS                                                                                                                          |
 | Sunny Lee                                                           | ITS                                                                                                                             |
 | Hana Kim                                                   | East Asian Library                                                                                                              |
 | Rachel Beattie                                                      | Media Commons Archives                                                                                                          |
