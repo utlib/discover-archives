@@ -15,9 +15,9 @@ The practice of generating reports began in Summer 2023. Past analytics are also
 As of September 2025, Discover Archives staff can also request access to their per-repository Google Analytics data via Explore reports. 
 
 Browse:
-* [2023 reports](discover-archives-google-analytics-reports.m#2023)
-* [2024 reports](discover-archives-google-analytics-reports.m#2024)
-* [2025 reports](discover-archives-google-analytics-reports.m#2025)
+* [2023 reports](discover-archives-google-analytics-reports#2023)
+* [2024 reports](discover-archives-google-analytics-reports#2024)
+* [2025 reports](discover-archives-google-analytics-reports#2025)
 
 
 ## 2025
