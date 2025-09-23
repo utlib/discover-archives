@@ -10,7 +10,9 @@ permalink: /documentation/discover-archives-google-analytics-reports
 
 This page shares Google Analytics reports via Looker Studio for those involved with the Discover Archives service. 
 
-The practice of generating reports began in Summer 2023. Past analytics are also available upon request by U of T Discover Archives staff. As of September 2025, Discover Archives staff can also request access to their per-repository Google Analytics data via Explore reports. 
+The practice of generating reports began in Summer 2023. Past analytics are also available upon request by U of T Discover Archives staff. 
+
+As of September 2025, Discover Archives staff can also request access to their per-repository Google Analytics data via Explore reports. Staff can find more details in _[Documentation for DASC Repositories: How to Use GA4 Repository Explore Reports ](https://utoronto.sharepoint.com/:w:/s/001T_UTLWebContentCreators/EQx-TQQyZlBPsK-k-GESCVgBCLFaMNar8dmwsp994dYUQg?e=t7sitX)_.
 
 Browse:
 * [2023 reports](discover-archives-google-analytics-reports#2023)
