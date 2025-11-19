@@ -8,7 +8,7 @@ permalink: /policies/dasc-terms-of-reference
 
 # Discover Archives Steering Committee: Terms of Reference
 
-> Created by Amanda Tome, last updated by Emily Sommers on November 13, 2024
+> Created by Amanda Tome, last updated by Kelli Babcock on November 19, 2025
 
 [A. Background](#a-background) | [B. Purpose](#b-purpose) | [C. Composition](#c-composition) | [D. Membership](#d-membership) | [E. Chairs](#e-chairs) | [F. Meetings](#f-meetings) | [G. Decision-making](#g-decision-making) | [H. Communication](#h-communication) | [I. Roles and Responsibilities](#i-roles-and-responsibilities)
 
@@ -43,9 +43,7 @@ permalink: /policies/dasc-terms-of-reference
 
 ## B. PURPOSE  
 
-The Discover Archives Steering Committee (DASC) is a group of representatives from the repositories participating in the University of Toronto (U of T) Discover Archives service. The main purpose of the Discover Archives Steering Committee is to set policy, develop standards, and create documentation for the use of the Discover Archives platform at U of T. To that end, the committee meets twice a year to discuss issues and challenges that arise with Discover Archives as well as maintain documentation on the service's software and U of T's use of it.
-
-See DASC page in the [UTL staff directory](https://staff.library.utoronto.ca/node/42472).
+The Discover Archives Steering Committee (DASC) is a group of representatives from the repositories participating in the University of Toronto (U of T) Discover Archives service. The main purpose of the Discover Archives Steering Committee is to set policy, develop standards, and create documentation for the use of the Discover Archives platform at U of T. To that end, the committee meets at least once per term to discuss issues and challenges that arise with Discover Archives as well as maintain documentation on the service's software and U of T's use of it.
 
 ## C. COMPOSITION
 
@@ -64,7 +62,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Nat Johnson-Tyghter                      			      | OISE Library                                                                                                                    |
 | Zhuohua (Nicole) Yang                     			      | Richard Charles Lee Canada-Hong Kong Library                                                                                                         |
 | Natalya Rattan                                                      | Thomas Fisher Rare Book Library                                                                                                 |
-| Sylvia Lassam and Lindsay Grant <br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
+| Lindsay Grant <br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
 | Jessica Barr and Simon Rogers <br>Secondary contact: Teresa Wong                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
 | Cal Long <br>Secondary contact: Chris Young | UTM Library, Archives & Special Collections                                                                                     |
 | John Yolkowski<br>Secondary contact: Lindsay Gibb                      | UTSC Library, Archives & Special Collections                                                                                    |
@@ -72,7 +70,6 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Bailey Chui                                                         | Victoria University Library - Special Collections                                                                               |
 | Allison Graham                                                        | Wycliffe College Archives                                                                                                       |
 
-Membership list also maintained in the [UTL Staff Directory](https://staff.library.utoronto.ca/node/42472).
 ## E. CHAIRS
 
 * The Discover Archives Steering Committee is co-chaired by the Digital Initiatives Librarian (ITS) and one repository representative. The latter member will serve a term of 2 years.
@@ -81,7 +78,7 @@ Membership list also maintained in the [UTL Staff Directory](https://staff.libra
 
 ## F. MEETINGS
 
-The Discover Archives Steering Committee meets 3 times a year (once per term)  
+The Discover Archives Steering Committee meets at least once per term.
 
 ## G. DECISION MAKING
 
@@ -101,7 +98,7 @@ DASC and its members are responsible for
 
 * Maintaining documentation on the use of the Discover Archives software
 
-* Setting policy for general UofT wide usage of the Discover Archives platform
+* Setting policy for general U of T wide usage of the Discover Archives platform
 
 * Advising on specific departmental usage of the Discover Archives platform
 
@@ -109,7 +106,7 @@ DASC and its members are responsible for
 
 * Facilitating training for the staff of new repositories that join the project
 
-* Keeping up with developments (new editions, fixes, etc) for the Discover Archives software [^1]
+* Keeping up with developments (new versions, fixes, etc.) for the Discover Archives software [^1]
 
 * Liaising with the wider archival community on issues relating to the Discover Archives platform [^2]
 
