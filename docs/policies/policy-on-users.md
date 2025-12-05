@@ -7,7 +7,7 @@ permalink: /policies/policy-on-users
 ---
 
 # Policy on Users
-> Created by Karen Suurtamm, last modified by Rebekah Bedard on Jun 19, 2023
+> Created by Karen Suurtamm, last modified by Kelli Babcock on Dec 05, 2025
 
 ## User types and permissions
 1. See AtoM documentation for default user roles and permissions: [https://www.accesstomemory.org/en/docs/latest/user-manual/getting-started/getting-started/#user-roles](https://www.accesstomemory.org/en/docs/latest/user-manual/getting-started/getting-started/#user-roles)
@@ -26,6 +26,6 @@ permalink: /policies/policy-on-users
 
    * Each archival institution administrator is responsible for creating and managing user groups for their institution
 
-   * Each archival institution administrator is responsible for placing their users in the correct user group
+   * Each archival institution administrator is responsible for placing their users in the correct user group. **As of AtoM version 2.10.x: do not add both a repository "editor" user group in addition to the "administrator" user group. Doing so will result in an error when logged in (see DA-2030 ticket for additional details). Use one or the other.**
    
    * Each user group will be named with InstitutionLabel Function - i.e. UTARMS Editor
