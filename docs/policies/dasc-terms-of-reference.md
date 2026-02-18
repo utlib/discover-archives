@@ -62,8 +62,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Rebecca Shaw                                                        | Music Library                                                                                                                   |
 | Nat Johnson-Tyghter                      			      | OISE Library                                                                                                                    |
 | Jason Kahei Wong                     			      | Richard Charles Lee Canada-Hong Kong Library                                                                                                         |
-| June Chow
-Zhuohua (Nicole) Yang                     			      | Richard Charles Lee Chinese Canadian Archives                                                                                                         |
+| June Chow <br>Secondary contact: Zhuohua (Nicole) Yang                     			      | Richard Charles Lee Chinese Canadian Archives                                                                                                         |
 | Natalya Rattan                                                      | Thomas Fisher Rare Book Library                                                                                                 |
 | Lindsay Grant <br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
 | Jessica Barr and Simon Rogers <br>Secondary contact: Teresa Wong                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
