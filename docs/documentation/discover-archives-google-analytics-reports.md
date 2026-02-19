@@ -21,7 +21,7 @@ Browse:
 * [2026 reports](/discover-archives-google-analytics-reports.md#2026)
 
 ## 2026
-* [January](https://lookerstudio.google.com/reporting/9d25fdfc-a88b-46cd-97ab-50100ad46892)(analytics skewed from bot traffic this month)
+* [January](https://lookerstudio.google.com/reporting/9d25fdfc-a88b-46cd-97ab-50100ad46892) (analytics skewed from bot traffic this month)
 
 ## 2025
 * [January](https://lookerstudio.google.com/reporting/f9f3d12d-3fc4-40de-a705-6bff9a8ba5dc)
