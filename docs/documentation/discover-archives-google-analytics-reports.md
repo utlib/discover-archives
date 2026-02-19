@@ -18,7 +18,10 @@ Browse:
 * [2023 reports](discover-archives-google-analytics-reports#2023)
 * [2024 reports](discover-archives-google-analytics-reports#2024)
 * [2025 reports](discover-archives-google-analytics-reports#2025)
+* [2026 reports](discover-archives-google-analytics-reports#2026)
 
+## 2026
+* [January](https://lookerstudio.google.com/reporting/9d25fdfc-a88b-46cd-97ab-50100ad46892)(analytics skewed from bot traffic this month)
 
 ## 2025
 * [January](https://lookerstudio.google.com/reporting/f9f3d12d-3fc4-40de-a705-6bff9a8ba5dc)
@@ -31,6 +34,9 @@ Browse:
 * [July](https://lookerstudio.google.com/reporting/fffdef18-cc45-47ad-bf36-4c2c39a77ab4)
 * [August](https://lookerstudio.google.com/reporting/662c526b-1847-463f-bbbb-a9b95a2623da)
 * [September](https://lookerstudio.google.com/reporting/8f42106c-528c-4462-b9cb-a922cb7ff332)
+* [October](https://lookerstudio.google.com/reporting/7169d506-dc72-411c-8b76-ec43dfd7827c)
+* [November](https://lookerstudio.google.com/reporting/47b90c72-09c1-4ce5-9f63-2337741bc2d1) (analytics skewed from bot traffic this month)
+* [December](https://lookerstudio.google.com/reporting/1feb514f-656c-4cae-b7e2-8e1093df6b11) (analytics skewed from bot traffic this month)
 
 ## 2024
 * [January](https://lookerstudio.google.com/reporting/ac8e2f0d-ba7e-43a8-a98b-a1f616452f81)
