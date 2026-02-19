@@ -15,10 +15,10 @@ The practice of generating reports began in Summer 2023. Past analytics are also
 As of September 2025, Discover Archives staff can also request access to their per-repository Google Analytics data via Explore reports. Staff can find more details in _[Documentation for DASC Repositories: How to Use GA4 Repository Explore Reports ](https://utoronto.sharepoint.com/:w:/s/001T_UTLWebContentCreators/EQx-TQQyZlBPsK-k-GESCVgBCLFaMNar8dmwsp994dYUQg?e=t7sitX)_.
 
 Browse:
-* [2023 reports](discover-archives-google-analytics-reports#2023)
-* [2024 reports](discover-archives-google-analytics-reports#2024)
-* [2025 reports](discover-archives-google-analytics-reports#2025)
-* [2026 reports](discover-archives-google-analytics-reports#2026)
+* [2023 reports](/discover-archives-google-analytics-reports.md#2023)
+* [2024 reports](/discover-archives-google-analytics-reports.md#2024)
+* [2025 reports](/discover-archives-google-analytics-reports.md#2025)
+* [2026 reports](/discover-archives-google-analytics-reports.md#2026)
 
 ## 2026
 * [January](https://lookerstudio.google.com/reporting/9d25fdfc-a88b-46cd-97ab-50100ad46892)(analytics skewed from bot traffic this month)
