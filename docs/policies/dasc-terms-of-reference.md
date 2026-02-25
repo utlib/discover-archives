@@ -33,7 +33,7 @@ permalink: /policies/dasc-terms-of-reference
    * Trinity College, John W. Graham Library
    * University of St. Michael's College Archives        
    * University of St. Michael's College, John M. Kelly Library, Special Collections
-   * University of Toronto Media Commons Archives
+   * University of Toronto Media Archives
    * University of Toronto Archives & Records Management Services
    * University of Toronto Mississauga Library, Archives & Special Collections
    * University of Toronto Music Library, Archives & Special Collections  
@@ -58,7 +58,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Emily Sommers (co-chair) <br>2025-2026 contact: Daniela Ansovini                                           | UTARMS                                                                                                                          |
 | Sunny Lee                                                           | ITS                                                                                                                             |
 | Hana Kim                                                   | East Asian Library                                                                                                              |
-| Rachel Beattie                                                      | Media Commons Archives                                                                                                          |
+| Rachel Beattie<br>Secondary contact: Christina Stewart                                                      | Media Archives                                                                                                          |
 | Rebecca Shaw                                                        | Music Library                                                                                                                   |
 | Nat Johnson-Tyghter                      			      | OISE Library                                                                                                                    |
 | Jason Kahei Wong<br>Secondary contact: Maria Lau                     			      | Richard Charles Lee Canada-Hong Kong Library                                                                                                         |
