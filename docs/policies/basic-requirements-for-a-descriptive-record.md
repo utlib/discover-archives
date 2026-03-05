@@ -44,6 +44,9 @@ Record the date or dates of the unit in the _Date_ field (used for free-text dat
 
 Select the unit of description from the drop down list provided.
 
+{: .note }
+> Manuscript Collection is a term used exclusively by the Thomas Fisher Rare Book Library.
+
 **Extent and Medium (3.1.5) / Extent of Descriptive Unit (including Specific Material Designation) (.5B)**
 
 Record the physical extent of the unit along with its specific media designation (SMD). Example:
