@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wikidata
-nav_order: 8
+nav_order: 9
 parent: Documentation
 permalink: /documentation/wikidata
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alma, Primo, and AtoM
-nav_order: 7
+nav_order: 8
 parent: Documentation
 permalink: /documentation/alma-primo-and-atom
 ---

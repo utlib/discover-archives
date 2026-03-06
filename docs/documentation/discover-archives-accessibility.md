@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Web Accessibility
-nav_order: 6
+nav_order: 7
 parent: Documentation
 permalink: /documentation/discover-archives-accessibility
 ---

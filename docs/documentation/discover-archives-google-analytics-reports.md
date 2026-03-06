@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Discover Archives Google Analytics Reports
-nav_order: 9
+nav_order: 10
 parent: Documentation
 permalink: /documentation/discover-archives-google-analytics-reports
 ---
