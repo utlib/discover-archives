@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 'Request' button
+title: Request button
 nav_order: 6
 parent: Documentation
-description: "'Request' button"
+description: "Request button"
 permalink: /documentation/request-button
 has_children: false
 ---
