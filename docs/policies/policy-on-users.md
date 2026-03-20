@@ -22,7 +22,7 @@ Administrators can also create new user roles, set granular permissions for that
 
 ## Policy
 
-1. Each archival institution will have only 1 administrator user
+1\. Each archival institution will have only 1 administrator user
 
 * If more than 1 administrator user is required by the institution, the addition of more administrators must be discussed with the DASC
 
@@ -30,7 +30,7 @@ Administrators can also create new user roles, set granular permissions for that
 
 * Usernames will be created using the following conventions: REPOSITORY - lastnamefirstnameinitial - i.e. ITS - babcockk
 
-2.  Each archival institution can have 1 or more user groups
+2\.  Each archival institution can have 1 or more user groups
 
 * Each archival institution administrator is responsible for creating and managing user groups for their institution
 
@@ -43,7 +43,7 @@ Administrators can also create new user roles, set granular permissions for that
 {: .note }
 > As of AtoM version 2.10: do not add both a repository "editor" user group in addition to the "administrator" user group. Doing so will result in an error when logged in (see DA-2030 ticket for additional details). Use one or the other.
 
-3.  Only administrators have permission to edit taxonomies
+3\.  Only administrators have permission to edit taxonomies
 
 A taxonomy is a grouping of controlled-vocabulary terms used to generate value lists and access points
 
