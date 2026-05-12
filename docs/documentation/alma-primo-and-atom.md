@@ -20,13 +20,13 @@ This page documents how finding aid/metadata in the Discover Archives service (c
 
 ## Background
 
-The Discover Archives service began as a pilot in 2014. It launched as a service in 2018. 
+The Discover Archives service began as a pilot in 2014. It launched as an ITS-hosted technology service for U of T archives in 2018. 
 
 Prior to 2014, U of T archives had different practices for promoting archival description to different discovery points. You can read more about the metadata and discovery goals that were part of developing the Discover Archives service at U of T in [this paper](https://kula.uvic.ca/index.php/kula/article/view/234). 
 
-Prior to the existence of Discover Archives, some U of T archives published MARC records in the U of T library catalog. 
+Prior to the existence of Discover Archives, some U of T archives published MARC records in the U of T library catalog (prior to 2020, UTL used the Sirsi platform for its catalog). 
 
-Currently, the Discover Archives Steering Committee is consulting with the LSP team and LSP Discovery working group to investigate how the Discover Archives API feed can feed top-level finding aids into Primo to assist in promoting the discovery of local U of T archival records in the U of T library catalog.
+Currently, the Discover Archives Steering Committee is consulting with the LSP team and LSP Discovery working group to investigate how the Discover Archives API feed can deliver top-level finding aids into Primo to assist in promoting the discovery of local U of T archival records in the U of T library catalog.
 
 **This page will be updated with additional details as the investigation continues.**
 
@@ -90,6 +90,9 @@ AtoM Google Group Threads
 Examples
 --------
 
+* [Duke University](https://search.library.duke.edu/nde/home?vid=01DUKE_INST:DUKE&lang=en)
+   * [Duke University Football records, 1922-2007 - example Primo record display](https://search.library.duke.edu/permalink/01DUKE_INST/1jas8g8/alma990038635800108501)
+   * [Football records - source record in ArchivesSpace](https://archives.lib.duke.edu/catalog/uaftball)
 * [University of Strathclyde (Glasgow)](http://suprimo.lib.strath.ac.uk/permalink/f/utkvjl/SUARCHIVESESU_120)
     * [Source record (in DC XML)](http://suprimo.lib.strath.ac.uk/primo-explore/sourceRecord?vid=SUNU01&docId=SUARCHIVESESU_120)
     * [Example of what things look like in Search Results page](https://suprimo.lib.strath.ac.uk/primo-explore/search?query=sub,exact,%20Urban%20planning,AND&vid=SUNU01&mode=advanced)
