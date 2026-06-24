@@ -25,8 +25,10 @@ Browse:
 * [February](https://datastudio.google.com/reporting/ec5e430a-aa53-49ef-86df-b399c3a11834) (analytics significantly skewed from bot traffic this month)
 * [March](https://datastudio.google.com/reporting/6312c4d5-f2fc-46b9-b220-b450b6799531) (analytics significantly skewed from bot traffic this month)
 * [April](https://datastudio.google.com/reporting/2937ea6d-69c8-4253-befc-9155bedf8c79) (analytics significantly skewed from bot traffic this month)
-*  **[Annual report: May 1, 2025 - April 30, 2026](https://datastudio.google.com/reporting/0f9b8b41-bac6-473e-85bd-fa19fa985403) (analytics significantly skewed from bot traffic - use past annual reports for more reliable data)
-* May (forthcoming) 
+*  **[Annual report: May 1, 2025 - April 30, 2026](https://datastudio.google.com/reporting/0f9b8b41-bac6-473e-85bd-fa19fa985403)** (analytics significantly skewed from bot traffic - use past annual reports for more reliable data)
+* [May](https://datastudio.google.com/reporting/d9980794-898b-4cd9-a712-85b248b24adf) (analytics significantly skewed from bot traffic this month; JS Challenge applied this month but bot traffic persists in analytics data)
+* [June](https://datastudio.google.com/reporting/6abcd95e-e5a3-44ec-9a17-82ad955ec935) (bot traffic in analytics data reduced; possibly as a result of applying JS Challenge to site)
+* July (forthcoming) 
 
 ## 2025
 * [January](https://lookerstudio.google.com/reporting/f9f3d12d-3fc4-40de-a705-6bff9a8ba5dc)
