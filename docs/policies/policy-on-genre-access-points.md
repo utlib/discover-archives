@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policy on Genre Access Points
-nav_order: 6
+nav_order: 7
 parent: Policies
 permalink: /policies/policy-on-genre-access-points
 ---

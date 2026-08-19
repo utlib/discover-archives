@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policy on Users
-nav_order: 11
+nav_order: 12
 parent: Policies
 permalink: /policies/policy-on-users
 ---

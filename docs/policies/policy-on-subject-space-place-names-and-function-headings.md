@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policy on Subject, Space, Place Names, and Function Headings
-nav_order: 10
+nav_order: 11
 parent: Policies
 permalink: /policies/policy-on-subject-space-place-names-and-function-headings
 ---

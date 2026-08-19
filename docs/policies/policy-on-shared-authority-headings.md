@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policy on Shared Authority Headings
-nav_order: 9
+nav_order: 10
 parent: Policies
 permalink: /policies/policy-on-shared-authority-headings
 ---

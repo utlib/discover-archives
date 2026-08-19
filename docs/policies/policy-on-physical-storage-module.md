@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Policy on Physical Storage module  
-nav_order: 8
+nav_order: 9
 parent: Policies
 permalink: /policies/policy-on-physical-storage-module
 ---
