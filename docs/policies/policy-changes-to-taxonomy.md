@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Policy: Changes to a taxonomy in Discover Archives
+title: Policy - Changes to a taxonomy in Discover Archives
 nav_order: 5
 parent: Policies
 permalink: /policies/policy-changes-to-taxonomy
