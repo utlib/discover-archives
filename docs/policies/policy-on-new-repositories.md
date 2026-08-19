@@ -22,7 +22,7 @@ Established repositories wishing to participate in *Discover Archives* should no
 
 ## B. Training for new repositories
 
-New repositories joining Discover Archives will:
+New repositories joining *Discover Archives* will:
 
 * Meet with DASC co-chairs for an introduction to *Discover Archives*, the documentation, reporting technical issues to ITS, and the listserv;
 * Review policies, documentation, and any mandatory onboarding training;
