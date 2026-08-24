@@ -8,7 +8,7 @@ permalink: /policies/dasc-terms-of-reference
 
 # Discover Archives Steering Committee: Terms of Reference
 
-> Created by Amanda Tome, last updated by Kelli Babcock on November 19, 2025
+> Created by Amanda Tome, last updated by Kelli Babcock on August 24, 2026
 
 [A. Background](#a-background) | [B. Purpose](#b-purpose) | [C. Composition](#c-composition) | [D. Membership](#d-membership) | [E. Chairs](#e-chairs) | [F. Meetings](#f-meetings) | [G. Decision-making](#g-decision-making) | [H. Communication](#h-communication) | [I. Roles and Responsibilities](#i-roles-and-responsibilities)
 
@@ -62,7 +62,7 @@ The Discover Archives Steering Committee consists of 1 representative from each 
 | Rebecca Shaw                                                        | Music Library                                                                                                                   |
 | Nat Johnson-Tyghter                      			      | OISE Library                                                                                                                    |
 | Jason Kahei Wong<br>Secondary contact: Maria Lau                     			      | Richard Charles Lee Canada-Hong Kong Library                                                                                                         |
-| June Chow                      			      | Richard Charles Lee Chinese Canadian Archives                                                                                                         |
+| Nicole Zhuohua Yang                      			      | Richard Charles Lee Chinese Canadian Archives                                                                                                         |
 | Natalya Rattan                                                      | Thomas Fisher Rare Book Library                                                                                                 |
 | Lindsay Grant <br>Secondary contact: Rebekah Bedard                  | Trinity College Archives<br>Trinity College, John W. Graham Library, Special Collections                                        |
 | Jessica Barr and Simon Rogers <br>Secondary contact: Teresa Wong                                                        | University of St. Michael's College Archives<br>University of St. Michael's College, John M. Kelly Library, Special Collections |
