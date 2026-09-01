@@ -10,7 +10,7 @@ permalink: /documentation/discover-archives-google-analytics-reports
 
 This page shares Google Analytics reports via Looker Studio for those involved with the Discover Archives service. 
 
-The practice of generating reports began in Summer 2023. Past analytics are also available upon request by U of T Discover Archives staff. 
+The practice of generating reports began in Summer 2023. Past analytics are also available upon request for U of T Discover Archives staff. 
 
 As of September 2025, Discover Archives staff can also request access to their per-repository Google Analytics data via Explore reports. Staff can find more details in _[Documentation for DASC Repositories: How to Use GA4 Repository Explore Reports ](https://utoronto.sharepoint.com/:w:/s/001T_UTLWebContentCreators/EQx-TQQyZlBPsK-k-GESCVgBCLFaMNar8dmwsp994dYUQg?e=t7sitX)_.
 
@@ -26,10 +26,11 @@ Browse:
 * [March](https://datastudio.google.com/reporting/6312c4d5-f2fc-46b9-b220-b450b6799531) (analytics significantly skewed from bot traffic this month)
 * [April](https://datastudio.google.com/reporting/2937ea6d-69c8-4253-befc-9155bedf8c79) (analytics significantly skewed from bot traffic this month)
 *  **[Annual report: May 1, 2025 - April 30, 2026](https://datastudio.google.com/reporting/0f9b8b41-bac6-473e-85bd-fa19fa985403)** (analytics significantly skewed from bot traffic - use past annual reports for more reliable data)
-* [May](https://datastudio.google.com/reporting/d9980794-898b-4cd9-a712-85b248b24adf) (analytics significantly skewed from bot traffic this month; JS Challenge applied this month but bot traffic persists in analytics data)
-* [June](https://datastudio.google.com/reporting/6abcd95e-e5a3-44ec-9a17-82ad955ec935) (bot traffic in analytics data reduced; likely as a result of applying JS Challenge to site)
-* [July](https://datastudio.google.com/reporting/218449c1-c0be-4892-9e8f-0cdef3ea96e5) (continue to see a drop in analytics data due to less bot traffic as well as a reduction in search engine visibility as a result of applying JS Challenge to site)
-* August (forthcoming) 
+* [May](https://datastudio.google.com/reporting/d9980794-898b-4cd9-a712-85b248b24adf) (analytics significantly skewed from bot traffic this month; JS Challenge applied this month but some bot traffic persists in analytics data)
+* [June](https://datastudio.google.com/reporting/6abcd95e-e5a3-44ec-9a17-82ad955ec935) (analytics data shows less bot traffic but also a decrease in other data, likely as a result of applying JS Challenge to site)
+* [July](https://datastudio.google.com/reporting/218449c1-c0be-4892-9e8f-0cdef3ea96e5) (continue to see a drop in some analytics data due to less bot traffic as well as possible reduction in search engine visibility as a result of applying JS Challenge to site)
+* [August](https://datastudio.google.com/reporting/a6a6dc91-30ef-4188-aebd-0bda341913af) (continue to see a drop in some analytics data due to less bot traffic)
+* September (forthcoming) 
 
 ## 2025
 * [January](https://lookerstudio.google.com/reporting/f9f3d12d-3fc4-40de-a705-6bff9a8ba5dc)
