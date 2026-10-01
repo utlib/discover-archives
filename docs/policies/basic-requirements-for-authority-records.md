@@ -27,7 +27,9 @@ Choose the type of entity (Person, Corporate Body or Family) that is being descr
 Record the standardized form of the name for the entity in the authority record.
 
 {: .note }
-> 1) Do not record dates of existence in brackets in this field and 2) Always format personal names as _lastname, firstname_ - such as _Franklin, Ursula Martius_ for [Ursula Franklin](https://discoverarchives.library.utoronto.ca/index.php/franklin-ursula-martius). 
+> Do not record dates of existence in brackets in this field.  
+Always format personal names as _lastname, firstname_ - such as _[Franklin, Ursula Martius](https://discoverarchives.library.utoronto.ca/index.php/franklin-ursula-martius)_.
+
 
 ### Description area
 
