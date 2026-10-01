@@ -7,7 +7,7 @@ permalink: /policies/basic-requirements-for-authority-records
 ---
 
 # Basic Requirements for Authority Records
-> Created by Amanda Tome, last modified by Kelli Babcock on Nov 08, 2023
+> Created by Amanda Tome, last modified by Kelli Babcock on Oct 1, 2026
 
 ## PURPOSE
 The following document outlines the minimum requirements for authority records in *Discover Archives*. The corresponding rule from ISAAR (CPF) for each element listed has been provided for reference.
