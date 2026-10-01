@@ -27,7 +27,8 @@ Choose the type of entity (Person, Corporate Body or Family) that is being descr
 Record the standardized form of the name for the entity in the authority record.
 
 {: .note }
-> Do not record dates of existence in brackets in this field
+> Do not record dates of existence in brackets in this field.
+> Always format personal names as lastname, firstname. Follow a name authority standard when possible.
 
 ### Description area
 
