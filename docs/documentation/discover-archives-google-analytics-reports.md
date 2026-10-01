@@ -30,7 +30,8 @@ Browse:
 * [June](https://datastudio.google.com/reporting/6abcd95e-e5a3-44ec-9a17-82ad955ec935) (analytics data shows less bot traffic but also a decrease in other data, likely as a result of applying JS Challenge to site)
 * [July](https://datastudio.google.com/reporting/218449c1-c0be-4892-9e8f-0cdef3ea96e5) (continue to see a drop in some analytics data due to less bot traffic as well as possible reduction in search engine visibility as a result of applying JS Challenge to site)
 * [August](https://datastudio.google.com/reporting/a6a6dc91-30ef-4188-aebd-0bda341913af) (continue to see a drop in some analytics data due to less bot traffic)
-* September (forthcoming) 
+* [September](https://datastudio.google.com/reporting/58090a9a-0410-4d98-a7f9-b2ae40a3f088) (continue to see a drop in some analytics data due to less bot traffic)
+* October (forthcoming)
 
 ## 2025
 * [January](https://lookerstudio.google.com/reporting/f9f3d12d-3fc4-40de-a705-6bff9a8ba5dc)
