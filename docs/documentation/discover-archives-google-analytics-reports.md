@@ -29,9 +29,10 @@ Browse:
 * [May](https://datastudio.google.com/reporting/d9980794-898b-4cd9-a712-85b248b24adf) (analytics significantly skewed from bot traffic this month; JS Challenge applied this month but some bot traffic persists in analytics data)
 * [June](https://datastudio.google.com/reporting/6abcd95e-e5a3-44ec-9a17-82ad955ec935) (analytics data shows less bot traffic but also a decrease in other data, likely as a result of applying JS Challenge to site)
 * [July](https://datastudio.google.com/reporting/218449c1-c0be-4892-9e8f-0cdef3ea96e5) (continue to see a drop in some analytics data due to less bot traffic as well as possible reduction in search engine visibility as a result of applying JS Challenge to site)
-* [August](https://datastudio.google.com/reporting/a6a6dc91-30ef-4188-aebd-0bda341913af) (continue to see a drop in some analytics data due to less bot traffic)
-* [September](https://datastudio.google.com/reporting/58090a9a-0410-4d98-a7f9-b2ae40a3f088) (continue to see a drop in some analytics data due to less bot traffic)
-* October (forthcoming)
+* [August](https://datastudio.google.com/reporting/a6a6dc91-30ef-4188-aebd-0bda341913af) (continue to see a drop in some analytics data due to less bot traffic and reduction in search engine visibility)
+* [September](https://datastudio.google.com/reporting/58090a9a-0410-4d98-a7f9-b2ae40a3f088) (continue to see a drop in some analytics data due to less bot traffic and reduction in search engine visibility)
+* [October](https://datastudio.google.com/reporting/96769fdd-75f9-47e0-b82e-52440aa0d169) (some search engine visibility improvements made this month)
+* November(forthcoming)
 
 ## 2025
 * [January](https://lookerstudio.google.com/reporting/f9f3d12d-3fc4-40de-a705-6bff9a8ba5dc)
