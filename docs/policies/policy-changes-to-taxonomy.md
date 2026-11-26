@@ -58,4 +58,4 @@ module](/discover-archives/policies/policy-on-physical-storage-module)
 Headings](/discover-archives/policies/policy-on-subject-space-place-names-and-function-headings)
 
 [^1]: A full list can be seen at
-    <https://discoverarchives.library.utoronto.ca/index.php/taxonomy/list>
+    <https://discoverarchives.library.utoronto.ca/taxonomy/list>
