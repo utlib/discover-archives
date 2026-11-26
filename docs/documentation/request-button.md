@@ -26,7 +26,7 @@ container attached to the archival description.
 * For documentation on adding physical containers to archival descriptions, see the [Physical Storage module documentation pages]({{ site.baseurl }}/documentation/physical-storage) and the [Policy on the Physical Storage Module]({{ site.baseurl }}/policies/policy-on-physical-storage-module).
 
 By default, the button will display “Request this material” with a link
-to <https://discoverarchives.library.utoronto.ca/index.php/contact-us>
+to <https://discoverarchives.library.utoronto.ca/contact-us>
 
 The button text and link can be customized per repository by ITS by
 submitting a ticket to <discoverarchives@library.utoronto.ca>. This work
@@ -47,10 +47,10 @@ time.
 ## Examples of the button in use
 
 - Music Library:
-  <https://discoverarchives.library.utoronto.ca/index.php/otufm87-ruby-mercer>
+  <https://discoverarchives.library.utoronto.ca/otufm87-ruby-mercer>
 
 - UTARMS:
-  <https://discoverarchives.library.utoronto.ca/index.php/arthur-fry-fonds>
+  <https://discoverarchives.library.utoronto.ca/arthur-fry-fonds>
 
 - UTM Library, Archives & Special Collections:
-  <https://discoverarchives.library.utoronto.ca/index.php/play-scripts>
+  <https://discoverarchives.library.utoronto.ca/play-scripts>
