@@ -9,7 +9,7 @@ permalink: /policies/policy-on-genre-access-points
 # Policy on Genre Access Points  
 > Created by Amanda Tome, last modified by Emily Sommers on Jan 19, 2023
 
-Repositories should use the genre access points to increase discovery of archival material. Genre access points have been developed through conversation between members of the Discover Archives Steering Committee. It is suggested that repositories **use the genre access points at all levels of description** to ensure the discovery of their resources. The taxonomy are meant to use high level, user friendly terms:
+Repositories should use the genre access points to increase discovery of archival material. [Genre access points](https://discoverarchives.library.utoronto.ca/genre) have been developed through conversation between members of the Discover Archives Steering Committee. It is suggested that repositories **use the genre access points at all levels of description** to ensure the discovery of their resources. The taxonomy are meant to use high level, user friendly terms:
 
 * Architectural plans
 * Audio
