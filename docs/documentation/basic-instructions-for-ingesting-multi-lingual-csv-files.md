@@ -55,7 +55,7 @@ The AtoM code branch for this feature [https://github.com/artefactual/atom/commi
 
 ### UTSC Example
 * [Tamil and English csv example]({{ site.baseurl }}/attachments/TamilTest_20220118.csv)
-* Resulting description in Discover Archives: [https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai](https://discoverarchives-test.library.utoronto.ca/index.php/itak-general-election-candidacy-nomination-form-for-kankesanthurai)
+* Resulting description in Discover Archives: [https://discoverarchives-test.library.utoronto.ca/itak-general-election-candidacy-nomination-form-for-kankesanthurai](https://discoverarchives-test.library.utoronto.ca/itak-general-election-candidacy-nomination-form-for-kankesanthurai)
 
 
 ## Other background information from Dan Gillean at Artefactual Systems
