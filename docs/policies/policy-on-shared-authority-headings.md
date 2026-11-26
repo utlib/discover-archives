@@ -9,7 +9,7 @@ permalink: /policies/policy-on-shared-authority-headings
 # Policy on Shared Authority Headings  
 > Created by Amanda Tome, last modified by Rebekah Bedard on Jun 19, 2023
 
-* All repositories wishing to use [name authorities](https://discoverarchives.library.utoronto.ca/index.php/actor/browse) as access points are asked to verify that the name authority does not already exist before creating a new heading.
+* All repositories wishing to use [name authorities](https://discoverarchives.library.utoronto.ca/actor/browse) as access points are asked to verify that the name authority does not already exist before creating a new heading.
 
 * Where more than one repository holds records by/about a creator, those repositories must share an authority record.
 
