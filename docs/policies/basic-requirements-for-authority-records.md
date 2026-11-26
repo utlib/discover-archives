@@ -28,7 +28,7 @@ Record the standardized form of the name for the entity in the authority record.
 
 {: .note }
 > Do not record dates of existence in brackets in this field.  
-Always format personal names as _lastname, firstname_ - such as _[Franklin, Ursula Martius](https://discoverarchives.library.utoronto.ca/index.php/franklin-ursula-martius)_.
+Always format personal names as _lastname, firstname_ - such as _[Franklin, Ursula Martius](https://discoverarchives.library.utoronto.ca/franklin-ursula-martius)_.
 
 
 ### Description area
@@ -80,7 +80,7 @@ If the authorized form of the name is taken from an authority records database, 
 {: .new-title }
 > Please use VIAF url when available.
 >
-> Example - [Claude Bissell](https://discoverarchives.library.utoronto.ca/index.php/bissell-claude-3)
+> Example - [Claude Bissell](https://discoverarchives.library.utoronto.ca/bissell-claude-3)
 >
 > Authority record identifier: [http://viaf.org/viaf/44326760](http://viaf.org/viaf/44326760)
 
